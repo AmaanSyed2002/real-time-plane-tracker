@@ -6,12 +6,12 @@ A Python tool that tracks live airplane data and identifies the two closest plan
 
 ## 📌 Features
 
-✅ Real-time flight data using OpenSky Network  
-✅ Filters stale, grounded, or airport-near flights  
-✅ Calculates 3D distance using lat/lon + altitude  
-✅ Finds the closest pair of aircraft  
-✅ Clean terminal logging for live feedback  
-✅ Direct link to view planes on a live radar map
+ Real-time flight data using OpenSky Network  
+ Filters stale, grounded, or airport-near flights  
+ Calculates 3D distance using lat/lon + altitude  
+ Finds the closest pair of aircraft  
+ Clean terminal logging for live feedback  
+ Direct link to view planes on a live radar map
 
 ---
 
