@@ -27,10 +27,10 @@ https://globe.adsb.fi/?icao=7c4e44,7c3ce8
 ## File Description
 
 📁 plane/
-├── 📄 data.py        → Fetches and filters plane data
-├── 📄 distance.py    → Calculates Haversine + altitude distance
-├── 📄 logoff.py      → Logging configuration
-├── ✈️ plane.py       → Class definition for a plane with details like ICAO, position, and altitude
-├── 🚀 main.py        → Main execution file
-└── 📘 README.md      → You're here!
+├──  data.py        → Fetches and filters plane data
+├──  distance.py    → Calculates Haversine + altitude distance
+├──  logoff.py      → Logging configuration
+├──  plane.py       → Class definition for a plane with details like ICAO, position, and altitude
+├──  main.py        → Main execution file
+└──  README.md      → You're here!
 
